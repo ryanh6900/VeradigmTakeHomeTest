@@ -34,3 +34,6 @@ Note that using the aws eks cluster data source to retrieve the EKS cluster's de
   depends_on = [data.aws_eks_cluster.my_cluster]
 }
 
+##Notes/Thoughts
+Cloud services are interesting and I would like to learn more about how they work. Please let me know if you would like me to add anything more to this repository. I wanted to keep the repo light so I just included what was asked for on the prompt. 
+
